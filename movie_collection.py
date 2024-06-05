@@ -1,4 +1,4 @@
-print("Welcome!\n")
+print("\n\nWelcome!\n")
 
 movies = []
 
@@ -60,3 +60,6 @@ def search_movies():
   else:
     print("\nMovie not found!")
     navigate()
+
+
+main_menu()
